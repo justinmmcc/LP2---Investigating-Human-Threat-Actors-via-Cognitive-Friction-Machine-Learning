@@ -59,7 +59,7 @@ Project-LP2/
 ## 🛠️ Installation & Usage
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Justin-McCormick/Project-LP2.git](https://github.com/Justin-McCormick/Project-LP2.git)
+   git clone [https://github.com/justinmmcc/LP2-Behavioral-Threat-Intelligence](https://github.com/justinmmcc/LP2-Behavioral-Threat-Intelligence)
    cd Project-LP2
    ```
 2. **Install dependencies:**
