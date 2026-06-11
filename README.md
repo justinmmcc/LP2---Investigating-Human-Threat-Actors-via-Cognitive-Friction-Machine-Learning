@@ -35,7 +35,7 @@ The pipeline ingests raw Cowrie JSONL from a 23-day deployment (**174,963 events
 
 ## 🎯 Headline Findings
 * **99.96% Noise Reduction:** 174,963 raw events distilled into **6 high-value human-interactive sessions**.
-* **RedTail Campaign Captured:** Identified 6 unique payloads across 49 delivery cycles originating from UK-based infrastructure.
+* **RedTail Campaign Captured:** Identified 6 unique payloads across 96 delivery sessions originating from UK-based infrastructure. Note: an earlier version of this README reported 49 delivery cycles — that figure was a pipeline counting error subsequently corrected via direct analysis of the raw Cowrie JSONL. See linked LinkedIn post for full methodology note.
 * **Infrastructure Continuity:** Proved 33-day persistent botnet infrastructure identified across two independent deployments (LP1 → LP2).
 * **Geographic Profile:** Primary threat origins identified as China (56%), India (15.8%), and Malaysia (6.6%).
 
